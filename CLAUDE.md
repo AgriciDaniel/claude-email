@@ -1,4 +1,4 @@
-# Claude Email -- Comprehensive Email Management & Marketing
+# Claude Email — Comprehensive Email Management & Marketing
 
 ## Project Overview
 
