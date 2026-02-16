@@ -1,4 +1,4 @@
-# Claude Email -- AI-Powered Email Management and Marketing
+# Claude Email — AI-Powered Email Management and Marketing
 
 > Professional email management, deliverability optimization, and marketing strategy powered by Claude Code
 
@@ -236,9 +236,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/AgriciDaniel/claude-email/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/AgriciDaniel/claude-email/discussions)
-- **Email**: support@agricidaniel.com
+For support, please use [GitHub Issues](https://github.com/AgriciDaniel/claude-email/issues) or [Discussions](https://github.com/AgriciDaniel/claude-email/discussions).
 
 ---
 
@@ -252,8 +250,8 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and updates.
 
 - **[claude-seo](https://github.com/AgriciDaniel/claude-seo)**: SEO content optimization and strategy
 - **[claude-ads](https://github.com/AgriciDaniel/claude-ads)**: Paid advertising campaign management
-- **[skool](https://github.com/AgriciDaniel/claude-skool)**: Community and course management
+- **claude-skool**: Community and course management (coming soon)
 
 ---
 
-**Built with Skill Forge** | **Powered by Claude Code** | **Agent Skills Open Standard**
+**Powered by Claude Code** | **[Agent Skills Open Standard](https://agentskills.io)**
