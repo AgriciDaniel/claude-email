@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header.jpeg" alt="Claude Email — AI-Powered Email Management" width="100%">
+</p>
+
 # Claude Email — AI-Powered Email Management and Marketing
 
 > Professional email management, deliverability optimization, and marketing strategy powered by Claude Code
