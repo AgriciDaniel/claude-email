@@ -1,0 +1,8 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "AI-powered email management and marketing skill for Claude Code. Inbox triage, composition, quality review, deliverability audit, automation sequences, and marketing strategy.",
+  "author": "AgriciDaniel",
+  "license": "MIT",
+  "homepage": "https://github.com/AgriciDaniel/claude-email"
+}
